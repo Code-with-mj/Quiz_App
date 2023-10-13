@@ -19,7 +19,7 @@ body {
     position: relative;
     width: 100%;
     max-width: 700px;
-    background: #ed068d;
+    background: #f0049937;
     padding: 80px;
     overflow: hidden;
     border-radius: 10px;
@@ -120,14 +120,14 @@ select {
 }
 
 .question-wrapper .number {
-    color: #a2aace;
+    color: #1236da;
     font-size: 25px;
     font-weight: 500;
     margin-bottom: 20px;
 }
 
 .question-wrapper .number .total {
-    color: #576081;
+    color: #e86006;
     font-size: 18px;
 }
 
@@ -207,7 +207,7 @@ select {
 }
 
 .score .score-text {
-    color: #a2aace;
+    color: #f30410;
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 120px;

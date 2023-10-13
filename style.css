@@ -51,6 +51,9 @@ select {
     color: #100d00;
     font-size: 15px;
 }
+.start-screen .btn {
+    margin-top: 50px;
+  }
 
 .btn {
     margin-top: 25px;
